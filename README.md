@@ -1,4 +1,4 @@
 # FirstRepoByROy
 just trying out github
 <br>
-hello its praksh this side how u doin?
+hello its prakash this side how u doin?
